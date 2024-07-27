@@ -7,12 +7,12 @@ const chalk = require('chalk')
 global.ownernomer = "923217632023"
 global.ownername = "MrRizwan"
 global.ytname = "Rizwan"
-global.socialm = "GitHub: DeeCeeXxx"
+global.socialm = "GitHub: rizwan"
 global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '923217632023,923217632023,923217632023'  //creator number
 global.ownername = 'Mr Rizwan' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.botname = '🕷rizooo22🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
